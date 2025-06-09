@@ -1,2 +1,2 @@
-# Important_Projects
+# Kaggle Competition Project
 Few important projects are here
